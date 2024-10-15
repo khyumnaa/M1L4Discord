@@ -75,4 +75,4 @@ async def _bot(ctx):
 
 
 
-bot.run("")
+bot.run("enter your token here")
